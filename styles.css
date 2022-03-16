@@ -58,13 +58,16 @@
     }
 }
 /*  */
-.UPCOMING-LAUNCH-STARLINK-MISSION-TEXT{
+.UPCOMING-LAUNCH-STARLINK-MISSION-TEXT h2{
     font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     margin-top: -22rem;
     margin-left: 5em;
 }
+.STARLINK-MISSION-TEXT h1{
+    font-size: xx-large;
 
+}
 
 
 
