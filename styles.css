@@ -266,10 +266,23 @@
     #footer .list-items{
         list-style-type: none;
         display: flex;
-        
         width: 89%;
     }
 }
+@media(max-width:516px){
+    .push{
+        padding-bottom: 16rem;
+    }
+    #footer .list-items{
+        list-style-type: none;
+        display: flex;
+        width: 89%;
+        word-wrap: break-word;
+    }
+}
+
+
+
 
 
 
