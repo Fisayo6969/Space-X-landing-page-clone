@@ -69,7 +69,12 @@
     color: #fff;
     margin-left: 2.6em;
     font-size: 3pc;
-
+}
+@media(max-width:735px){
+    .STARLINK-MISSION-TEXT{
+        margin-left: 2.4em;
+        transition: all 0.3s ease 0s;
+    }
 }
 
 
