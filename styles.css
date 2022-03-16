@@ -114,6 +114,18 @@
     width: 100%;
     height: 100vh;
 }
+@media(max-width:455px){
+    #second-image{
+        background-image: url(./rocket-launch-space-discovery.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: -10.1rem;
+        width: 100%;
+        height: 100vh;
+    }
+}
+
 
 
 
