@@ -81,8 +81,20 @@
         
         transition: all 0.3s ease 0s;
     }
-    
+    .UPCOMING-LAUNCH-STARLINK-MISSION-TEXT {
+        margin-top: -35rem;
+    }
 }
+@media(max-width:455px){
+    .UPCOMING-LAUNCH-STARLINK-MISSION-TEXT {
+        margin-top: -20rem;
+    }
+    .STARLINK-MISSION-TEXT{
+        margin-left: 2em;
+        transition: all 0.3s ease 0s;
+    }
+}
+
 
 
 
