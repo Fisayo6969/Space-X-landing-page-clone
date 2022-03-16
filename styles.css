@@ -176,6 +176,19 @@
     width: 100%;
     height: 100vh;
 }
+@media(max-width:510px){
+    #last-image{
+        background-image: url(./for_press_release.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        margin-top: -10.1rem;
+        width: 100%;
+        height: 100vh;
+    }
+}
+
+
 
 
 
