@@ -203,6 +203,15 @@
         padding-bottom: 2.7em;
     }
 }
+/*  */
+#footer .list-items{
+    list-style-type: none;
+    display: flex;
+    justify-content:space-evenly;
+    width: 55%;
+    
+    
+}
 
 
 
