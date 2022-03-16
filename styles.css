@@ -155,6 +155,18 @@
     width: 100%;
     height: 100vh;
 }
+@media(max-width:455px){
+    #third-image{
+        background-image: url(./thumb-1920-297796.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: -10.1rem;
+        width: 100%;
+        height: 100vh;
+    }
+}
+
 
 
 
