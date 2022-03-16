@@ -259,6 +259,19 @@
         width: 79%;
     }
 }
+@media(max-width:585px){
+    .push{
+        padding-bottom: 16rem;
+    }
+    #footer .list-items{
+        list-style-type: none;
+        display: flex;
+        
+        width: 89%;
+    }
+}
+
+
 
 
 
