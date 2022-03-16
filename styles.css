@@ -78,7 +78,6 @@
 }
 @media(max-width:735px){
     .STARLINK-MISSION-TEXT{
-        
         transition: all 0.3s ease 0s;
     }
     .UPCOMING-LAUNCH-STARLINK-MISSION-TEXT {
@@ -91,6 +90,15 @@
     }
     .STARLINK-MISSION-TEXT{
         margin-left: 2em;
+        transition: all 0.3s ease 0s;
+    }
+}
+@media(max-width:595px){
+    .UPCOMING-LAUNCH-STARLINK-MISSION-TEXT {
+        margin-left: -4em;
+    }
+    .STARLINK-MISSION-TEXT{
+        
         transition: all 0.3s ease 0s;
     }
 }
@@ -185,6 +193,14 @@
         margin-top: -10.1rem;
         width: 100%;
         height: 100vh;
+    }
+}
+@media(max-width:455px){
+    .STARLINK-MISSION{
+        margin-top: -50rem;
+        margin-left: 2em;
+        transition: all 0.3s ease 0s;
+        padding-bottom: 2.7em;
     }
 }
 
