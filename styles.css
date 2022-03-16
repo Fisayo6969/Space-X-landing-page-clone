@@ -166,6 +166,16 @@
         height: 100vh;
     }
 }
+/*  */
+#last-image{
+    background-image: url(./for_press_release.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: -6.1rem;
+    width: 100%;
+    height: 100vh;
+}
 
 
 
