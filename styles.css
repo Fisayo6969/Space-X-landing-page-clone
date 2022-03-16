@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* TOP
+.iXSAKl {
+    display: flex;
+    position: fixed;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 40px;
+    font-weight: 400;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    z-index: 1;
+    margin-top: -40px;
+    transition: all 0.6s ease 0s;
+    background-image: linear-gradient(to right, rgb(35, 21, 68), rgb(119, 69, 122), rgb(173, 128, 103), rgb(182, 61, 153), rgb(49, 75, 173), rgb(68, 161, 223), rgb(56, 62, 163), rgb(48, 36, 73)); 
+} */
+.iXSAKl:hover{
+    color: #000;
+    opacity: 90%;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+/*  */
+#first-image{
+    background-image: url(./photo-1541185933-ef5d8ed016c2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: -6.1rem;
+    width: 100%;
+    height: 107vh;
+}
+@media(max-width:735px){
+    #first-image{
+        background-image: url(./photo-1541185933-ef5d8ed016c2);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: -13rem;
+        width: 100%;
+        height: 127vh;
+    }
+}
+@media(max-width:570px){
+    .nav-item{
+        background-image: linear-gradient(to right, rgb(0,35,96), rgb(0,47,105), rgb(0,39,97), rgb(0,50,112));
+        margin-top: -0.6rem;
+        margin-left: -6rem;
+        text-align: center;
+        transition: all 0.3s ease 0s;
+    }
+}
+/*  */
+.UPCOMING-LAUNCH-STARLINK-MISSION-TEXT{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: -22rem;
+    margin-left: 5em;
+}
+
+
+
+
+
+
+
