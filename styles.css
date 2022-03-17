@@ -292,6 +292,20 @@
         word-wrap: break-word;
     }
 }
+@media(max-width:463px){
+    .push{
+        padding-bottom: 10rem;
+    }
+    #footer .list-items{
+        margin-left: -2rem;
+        list-style-type: none;
+        display: flex;
+        width: 105%;
+        word-wrap: break-word;
+    }
+}
+
+
 
 
 
