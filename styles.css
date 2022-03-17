@@ -4,23 +4,7 @@
     box-sizing: border-box;
 }
 
-/* TOP
-.iXSAKl {
-    display: flex;
-    position: fixed;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    height: 40px;
-    font-weight: 400;
-    width: 100%;
-    color: rgb(0, 0, 0);
-    z-index: 1;
-    margin-top: -40px;
-    transition: all 0.6s ease 0s;
-    background-image: linear-gradient(to right, rgb(35, 21, 68), rgb(119, 69, 122), rgb(173, 128, 103), rgb(182, 61, 153), rgb(49, 75, 173), rgb(68, 161, 223), rgb(56, 62, 163), rgb(48, 36, 73)); 
-} */
+
 .iXSAKl:hover{
     color: #000;
     opacity: 90%;
@@ -114,7 +98,7 @@
 /*  */
 /* second-image */
 #second-image{
-    background-image: url(./37448.jpg);
+    background-image: url(./Science_nasa_KSC-20210423-PH-MIV01_0026_orig.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -155,7 +139,7 @@
 }
 /*  */
 #third-image{
-    background-image: url(./thumb-1920-297796.jpg);
+    background-image: url(./Crew-Dragon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
