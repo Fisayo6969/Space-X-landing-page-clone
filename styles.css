@@ -280,6 +280,22 @@
         word-wrap: break-word;
     }
 }
+@media(max-width:512px){
+    .push{
+        padding-bottom: 10rem;
+    }
+    #footer .list-items{
+        flex-wrap: wrap;
+        list-style-type: none;
+        display: flex;
+        width: 99%;
+        word-wrap: break-word;
+    }
+}
+
+
+
+
 
 
 
